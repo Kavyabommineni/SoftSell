@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Dark Theme */
+body.dark {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  body.light {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  h1, h2, h3, p {
+    color: inherit;
+  }
+  
+  a {
+    color: #1e90ff;
+  }
+  
+  /* Hero Section */
+  .hero-section.dark {
+    background-color: #333333;
+  }
+  
+  .hero-section.light {
+    background-color: #f1f1f1;
+  }
+  
+  /* Modify other sections as needed */
+  
